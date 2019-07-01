@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">   Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="preference_title">Timer Length</string>
+    <string name="preference_summary">For how many minutes should the timer run?</string>
+    <string name="preference_min">Minutes</string>
+</resources>
